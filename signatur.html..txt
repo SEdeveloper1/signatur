@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <title>Mejlsignatur</title>
+</head>
+<body>
+  <div style="font-family: Arial, sans-serif; color: #071244; font-size: 12pt; line-height: 1.6;">
+    <p>Anders Andersson</p>
+    <p style="font-size: 10pt; margin-bottom: 10px;">
+      Partner &amp; Head of Recruitment
+    </p>
+    <p style="font-family: Inter, sans-serif; color: #2c2c2c; font-size: 11px; line-height: 1.7;">
+      Mob: +46 70 00 000 0<br>
+      Email: <a href="mailto:anders.andersson@senterprise.se" style="color:#2c2c2c;">anders.andersson@senterprise.se</a><br>
+      Senterprise AB, Kungsgatan 62, 111 22 Stockholm<br>
+      <a href="http://www.senterprise.se" style="color:#2c2c2c;">www.senterprise.se</a>&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/company/senterprisesverige/" style="color:#2c2c2c;">@senterprise</a>
+    </p>
+    <p style="color:#0a195a; font-size: 12pt;">_____________________________</p>
+    <p>
+      <img src="https://drive.google.com/uc?export=view&id=11cLO2HyszyFVsXUjcA30SHbp3VHPJMuz" width="200" height="26" alt="Senterprise logotyp">
+    </p>
+    <p>
+      <img src="https://lh3.googleusercontent.com/d/1PlHrPq3_IFKiTKAdyh_9DhuYrcK9EvxH" width="96" height="37" alt="">
+    </p>
+  </div>
+</body>
+</html>
